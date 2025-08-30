@@ -1,2 +1,8 @@
 # Crazy-Data
-record some amazing knowledge, blogs and guides about data engineering, data science, machine learning and llms.
+🚀 **Crazy-Data** 是一个专注于 **数据工程（DE）**、**数据科学（DS）**、**大语言模型（LLMs）**的知识仓库。在这里，你会找到我平时学习、总结和实践过程中的笔记博客和学习指南。
+
+## 📖 内容导航
+
+## 
+
+## 🗂 仓库结构
